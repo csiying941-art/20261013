@@ -1,0 +1,16 @@
+question,opt0,opt1,opt2,opt3,answer
+請問下列哪一個指令是用來設定畫布的大小？,background(),createCanvas(),fill(),size(),1
+如果要設定畫面的背景顏色，應該使用哪一個指令？,color(),draw(),background(),canvas(),2
+請問用來在畫布上繪製一個矩形的指令是什麼？,rect(),circle(),ellipse(),squareShape(),0
+下列何者是用來設定圖形內部填滿顏色的指令？,stroke(),color(),rgb(),fill(),3
+p5.js 程式中，哪一個函式預設會每秒重複執行約 60 次？,setup(),draw(),preload(),loop(),1
+請問下列哪一個指令可以用來在畫布上畫一個圓形？,rect(),circle(),line(),point(),1
+如果想要設定圖形外框線的顏色，應該使用哪個指令？,fill(),stroke(),background(),colorLine(),1
+請問下列哪一個函式只會在程式剛開始執行時被呼叫一次？,draw(),setup(),loop(),repeat(),1
+想要設定外框線的粗細（寬度），應該使用哪一個指令？,strokeWeight(),strokeSize(),lineWidth(),border(),0
+請問下列哪一個指令可以用來在畫布上繪製一條直線？,line(),stroke(),rect(),drawLine(),0
+如果想要將畫布儲存為圖片檔案，可以使用下列哪一個函式？,saveImage(),saveCanvas(),export(),download(),1
+請問在 p5.js 中，用來設定文字大小的指令是？,textFont(),textSize(),textStyle(),textScale(),1
+請問下列何者可以用來在畫布上印出文字內容？,print(),text(),write(),string(),1
+請問當滑鼠被按下時，p5.js 會自動觸發哪一個事件函式？,mouseClicked(),mousePressed(),onMouseClick(),click(),1
+如果想知道目前滑鼠游標在水平方向的 X 座標，應該使用哪一個內建變數？,mouseX,mouseY,pmouseX,mousePos,0
